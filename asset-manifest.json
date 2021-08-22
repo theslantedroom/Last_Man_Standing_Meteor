@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/theslantedroom/static/css/main.6f340154.chunk.css",
-    "main.js": "/theslantedroom/static/js/main.9046793e.chunk.js",
-    "main.js.map": "/theslantedroom/static/js/main.9046793e.chunk.js.map",
-    "runtime-main.js": "/theslantedroom/static/js/runtime-main.fd2627f9.js",
-    "runtime-main.js.map": "/theslantedroom/static/js/runtime-main.fd2627f9.js.map",
-    "static/js/2.776e54d1.chunk.js": "/theslantedroom/static/js/2.776e54d1.chunk.js",
-    "static/js/2.776e54d1.chunk.js.map": "/theslantedroom/static/js/2.776e54d1.chunk.js.map",
-    "index.html": "/theslantedroom/index.html",
-    "static/css/main.6f340154.chunk.css.map": "/theslantedroom/static/css/main.6f340154.chunk.css.map",
-    "static/js/2.776e54d1.chunk.js.LICENSE.txt": "/theslantedroom/static/js/2.776e54d1.chunk.js.LICENSE.txt"
+    "main.css": "/lastmanstanding/static/css/main.760511dc.chunk.css",
+    "main.js": "/lastmanstanding/static/js/main.9046793e.chunk.js",
+    "main.js.map": "/lastmanstanding/static/js/main.9046793e.chunk.js.map",
+    "runtime-main.js": "/lastmanstanding/static/js/runtime-main.9f72b7d9.js",
+    "runtime-main.js.map": "/lastmanstanding/static/js/runtime-main.9f72b7d9.js.map",
+    "static/js/2.776e54d1.chunk.js": "/lastmanstanding/static/js/2.776e54d1.chunk.js",
+    "static/js/2.776e54d1.chunk.js.map": "/lastmanstanding/static/js/2.776e54d1.chunk.js.map",
+    "index.html": "/lastmanstanding/index.html",
+    "static/css/main.760511dc.chunk.css.map": "/lastmanstanding/static/css/main.760511dc.chunk.css.map",
+    "static/js/2.776e54d1.chunk.js.LICENSE.txt": "/lastmanstanding/static/js/2.776e54d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd2627f9.js",
+    "static/js/runtime-main.9f72b7d9.js",
     "static/js/2.776e54d1.chunk.js",
-    "static/css/main.6f340154.chunk.css",
+    "static/css/main.760511dc.chunk.css",
     "static/js/main.9046793e.chunk.js"
   ]
 }
