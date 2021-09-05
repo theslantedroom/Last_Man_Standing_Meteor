@@ -14,9 +14,6 @@
     "prettier": "prettier --write \"client/**/*.js\" \"imports/**/*.js\" \"server/**/*.js\" \"tests/**/*.js\" --single-quote true",
     "clean": "rm -rf node_modules/ package-lock.json && meteor npm i"
   },
-  "pre-commit": [
-    "lint"
-  ],
   "jest": {
     "moduleNameMapper": {
       "^.+\\.(css|less|scss)$": "babel-jest"
