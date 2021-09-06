@@ -7,7 +7,6 @@
 meteor-base@1.5.1                 # Packages every Meteor app needs to have
 mobile-experience@1.1.0           # Packages for a great mobile UX
 mongo@1.12.0                       # The database Meteor supports right now
-static-html                       # Define static page content in .html files
 reactive-var@1.0.11               # Reactive variable for tracker
 tracker@1.2.0                     # Meteor's client-side reactive programming library
 session@1.2.0
@@ -35,3 +34,4 @@ lacosta:method-hooks
 mizzao:user-status
 meteortesting:mocha
 fourseven:scss
+static-html
